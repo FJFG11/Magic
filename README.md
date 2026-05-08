@@ -4,6 +4,7 @@ Magic is a simple client/server executor for roblox developers for their games t
 
 ## Setup
 
+**Standard install**
 1. Download **Magic**
 2. Insert the file into your game
 3. Put **MainModule** into ServerScriptService
