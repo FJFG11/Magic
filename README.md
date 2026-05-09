@@ -4,14 +4,15 @@ Magic is a simple client/server executor for roblox developers for their games t
 
 ## Setup
 
-**Standard install**
+**Manual install**
 1. Download **Magic**
 2. Insert the file into your game
 3. Put **MainModule** into ServerScriptService
 4. Open the **Whitelist** module (MainModule/DebugExec/WHITELIST)
 5. Insert your userid into the table.
 
-**Cealshell install**
+**Cealshell install**    
+USE MANUAL INSTALL CURRENTLY
 1. Insert **Magic** with cealshell
 2. Put **MainModule** into ServerScriptService
 3. Right-click **DebugMainModule** and click **Enable all scripts**
