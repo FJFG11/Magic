@@ -11,7 +11,7 @@ Magic is a simple client/server executor for roblox developers for their games t
 4. Open the **Whitelist** module (MainModule/DebugExec/WHITELIST)
 5. Insert your userid into the table.
 
-**Cealshell install**    
+**[Cealshell](https://cealshell.dev/) install**    
 USE MANUAL INSTALL CURRENTLY
 1. Insert **Magic** with cealshell
 2. Put **MainModule** into ServerScriptService
