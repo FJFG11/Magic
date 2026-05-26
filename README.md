@@ -33,3 +33,9 @@ Magic is a simple client/server executor for roblox developers for their games t
 -Click `:` to open the CodeLine and `'` for Suite
 2. How can i close the UI?     
 -Click the same key again
+
+## Ownership & Other
+- Magic's Ownership is shared between Luxor and FJFG11 by 40% to 60%.
+- Magic may be used in your game with no licence as its free.
+- Magic may be changed or improved by youself.
+- Magic may **NOT** be re-sold and doing so will face in DMCA. 
